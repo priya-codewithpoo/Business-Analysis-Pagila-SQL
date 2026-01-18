@@ -49,7 +49,7 @@ Each question is saved in a **separate SQL file**. Some multi-step questions hav
 - [6_category_profitability.sql](./6_category_profitability.sql)
 - [7_customer_segmentation_detail.sql](./7_customer_segmentation_detail.sql)
 - [7_customer_segmentation_summary.sql](./7_customer_segmentation_summary.sql)
-- [8_anomaly_detection.sql](./08_anomaly_detection.sql)
+- [8_anomaly_detection.sql](./8_anomaly_detection.sql)
 
 Each file includes:
 
@@ -102,6 +102,7 @@ Each file includes:
 ## 🏁 Conclusion
 
 This project demonstrates how SQL can be used to solve real-world business problems through structured, insight-driven analysis. By answering high-impact questions using advanced SQL techniques, the project demonstrates practical SQL skills for analyzing business problems and generating actionable insights.
+
 
 
 
